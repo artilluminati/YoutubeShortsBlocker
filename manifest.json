@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube Shorts Blocker",
+    "version": "1.0",
+    "description": "Hide Shorts sections on YouTube",
+    "permissions": ["activeTab"],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://www.youtube.com/*"],
+            "js": ["content.js"]
+        }
+    ]
+}
