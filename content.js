@@ -1,7 +1,8 @@
 // Массив с селекторами для скрытия блоков
 const selectorsToHide = [
     "div#dismissible.style-scope.ytd-rich-shelf-renderer",
-    "#dismissible.style-scope ytd-rich-shelf-renderer",
+    "div#dismissible.style-scope ytd-rich-shelf-renderer",
+    "ytd-rich-section-renderer",
     // Селектор для раздела Shorts
     // Добавляйте сюда другие селекторы, которые нужно скрывать
     // Например:
