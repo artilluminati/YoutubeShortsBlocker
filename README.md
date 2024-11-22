@@ -12,7 +12,7 @@ YouTube Shorts может быть полезным, но для многих п
 
 #### 1. Загрузите и установите расширение вручную
 
-1. Скачайте репозиторий или [запакованное расширение](https://github.com/artilluminati/YoutubeShortsBlocker/releases/tag/latest) с раздела "Releases".
+1. Скачайте репозиторий или [запакованное расширение](https://github.com/artilluminati/YoutubeShortsBlocker/releases/latest) с раздела "Releases".
 2. Откройте страницу расширений в Chrome, перейдя по адресу `chrome://extensions/`.
 3. Включите **Режим разработчика** (переключатель в верхнем правом углу).
 4. Нажмите на кнопку **Загрузить распакованное расширение**.
